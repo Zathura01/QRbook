@@ -1,0 +1,56 @@
+.Login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(83, 83, 158);
+    width: 100vw;
+    height: 100vh; 
+    padding: 20px; 
+  }
+  
+  .Form {
+    width: 100%; 
+    max-width: 500px; 
+    padding: 20px;
+    background-color: white; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+.navvy {
+    background-color: navy;
+    color: aliceblue;
+}
+.center-tabs {
+    display: block;
+    width: 100%;
+    margin-left: 40%;
+    margin-right:  40%;
+  }
+  
+  .nav-tabs {
+    flex-wrap: nowrap;
+  }
+
+  .new-content, .already-content {
+    display: block; 
+    padding: 5px;
+    margin: 2px;
+    background-color: black;
+  }
+
+
+  /* New.css */
+.center-content {
+    margin: 52px;
+    background-color: rgba(238, 238, 232, 0.952);
+padding: 15px;
+color: black;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  }
+.TableUp{
+  width: 1000px;
+}
+  
+  
+  

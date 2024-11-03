@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@zxing/library": "^0.20.0",
+    "axios": "^1.6.8",
+    "jsqr": "^1.4.0",
+    "quagga": "^0.12.1",
+    "react-qr-reader": "^3.0.0-beta-1",
+    "react-webcam": "^7.2.0"
+  }
+}
