@@ -1,1 +1,1 @@
-# QRbook - In Master branch ; QR attendance mangsys; Py + React
+# QRbook - In Master branch ; QR attendance mangsys; Py + MERN Project
